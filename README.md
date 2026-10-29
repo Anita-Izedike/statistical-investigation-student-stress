@@ -1,3 +1,5 @@
+![Student Stress Project Banner](student-stress-banner.png)
+
 # Statistical Investigation of Factors Associated with Student Stress
 
 ## Project Overview
